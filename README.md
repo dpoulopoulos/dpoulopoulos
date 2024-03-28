@@ -8,7 +8,7 @@ I'm Dimitris, ✨ AI/ML Architect from Athens, Greece. I design and implement sc
 
 - ⚙ I use daily: `.py`, `.go`, `.ipynb`, `.ggml`, `.bin`, `.safetensors`, `.json`, `.yaml`
 - 🌍 I'm mostly active within the [Kubeflow Community](https://www.kubeflow.org/)
-- 💅 Core contributor: [Kale](https://github.com/kubeflow-kale/kale)
+- 💅 Core contributor: [Kale](https://github.com/kubeflow-kale/kale), [HPE Ezmeral Unified Analytics](https://github.com/HPEEzmeral/ezua-tutorials)
 
 🔖 My latest posts on Medium
 
