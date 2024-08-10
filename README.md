@@ -4,7 +4,7 @@
 
 I'm Dimitris, ✨ AI/ML Architect from Athens, Greece. I design and implement scalable AI/ML systems on Kubernetes, focusing on innovation and efficiency across industries.
 
-🌱[  Download my CV](https://drive.google.com/file/d/132lHmuSJQUrxnyrQrqbxW7Tows35_AWE/view)
+🌱[Download my CV](https://drive.google.com/file/d/1WNP3puRT27BAB1d-etj6hsXXZoSg3PQS/view?usp=sharing)
 
 - ⚙ I use daily: `.py`, `.go`, `.ipynb`, `.ggml`, `.bin`, `.safetensors`, `.json`, `.yaml`
 - 🌍 I'm mostly active within the [Kubeflow Community](https://www.kubeflow.org/)
