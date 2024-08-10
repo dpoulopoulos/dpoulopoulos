@@ -12,14 +12,16 @@ I'm Dimitris, ✨ AI/ML Architect from Athens, Greece. I design and implement sc
 
 🔖 My latest posts on Medium
 
+- [Unraveling FlashAttention: ](https://towardsdatascience.com/unraveling-flashattention-a20e6483c793) <br/>
+  A Leap Forward in Language Modeling.
 - [The Ultimate Guide to Training BERT from scratch: Introduction](https://towardsdatascience.com/the-ultimate-guide--training-bert-from-scratch-introduction-b048682c795f) <br/>
   Demystifying BERT: The definition and various applications of the model that changed the NLP landscape.
 - [The Ultimate Guide to Training BERT from scratch: The Tokenizer](https://towardsdatascience.com/the-ultimate-guide-to-training-bert-from-scratch-the-tokenizer-ddf30f124822) <br/>
-  From Text to Tokens: Your Step-by-Step Guide to BERT Tokenization
+  From Text to Tokens: Your Step-by-Step Guide to BERT Tokenization.
 - [The Ultimate Guide to Training BERT from Scratch: Prepare the Dataset](https://towardsdatascience.com/the-ultimate-guide-to-training-bert-from-scratch-prepare-the-dataset-beaae6febfd5) <br/>
-  Data Preparation: Dive Deeper, Optimize your Process, and Discover How to Attack the Most Crucial Step
+  Data Preparation: Dive Deeper, Optimize your Process, and Discover How to Attack the Most Crucial Step.
 - [The Ultimate Guide to Training BERT from Scratch: Final Act](https://towardsdatascience.com/the-ultimate-guide-to-training-bert-from-scratch-final-act-eab78b0657bb) <br/>
-  The Final Frontier: Building and Training Your BERT Model
+  The Final Frontier: Building and Training Your BERT Model.
 
 📫 How to reach me
 
